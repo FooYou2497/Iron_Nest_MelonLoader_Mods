@@ -7,9 +7,9 @@
 
 *Thanks https://github.com/svr2kos2*
 
-ATMCUnlimited.dll - A person claiming to be from the future gave us a physics book we'd never seen before, amazing!. Can buy nuclear bombs without limit.
+ATMCUnlimited.dll - A person claiming to be from the future gave us a physics book we'd never seen before, amazing!.
 
-ScoutPlaneUnlimited.dll - The Air Force has expanded its size, and we have more reconnaissance planes now. Can buy Scout Plane without limit.
+ScoutPlaneUnlimited.dll - The Air Force has expanded its size, and we have more reconnaissance planes now.
 
 FreeCards.dll - Our factory has excess capacity! You can have whatever you want now!
 
