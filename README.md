@@ -3,11 +3,10 @@
 ## LeaderBoard Opt Out ✅
 
 ### If you want to use these mods, make sure you've turned off uploading scores to the leaderboard. 
-### Using these mods means you agree to this term.
+### *Using these mods means you agree to this term.*
 
-### Using these mods requires MelonLoader, make sure you can use MelonLoader properly.###
-
-*MelonLoader : https://github.com/LavaGang/MelonLoader*
+### Using these mods requires MelonLoader, make sure you can use MelonLoader properly.
+### *MelonLoader : https://github.com/LavaGang/MelonLoader*
 
 ATMCUnlimited.dll - A person claiming to be from the future gave us a physics book we'd never seen before, amazing!
 
