@@ -18,4 +18,4 @@ ShowFrendlyIronNestIcon.dll - We criticized the observers and pilots, and now yo
 
 TightValves.dll - We reinforced the Iron Nest and replaced it with better materials, so now the valve will never leak.
 
-*Thanks https://github.com/svr2kos2*
+*Thanks https://github.com/svr2kos2. The Emperor won't forget your contributions!*
