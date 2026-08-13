@@ -5,7 +5,7 @@
 ### If you want to use these mods, make sure you've turned off uploading scores to the leaderboard. 
 ### Using these mods means you agree to this term.
 
-*Thanks https://github.com/svr2kos2*
+### Using these mods requires MelonLoader, make sure you can use MelonLoader properly.###
 
 *MelonLoader : https://github.com/LavaGang/MelonLoader*
 
@@ -18,3 +18,5 @@ FreeCards.dll - Our factory has excess capacity! You can have whatever you want 
 ShowFrendlyIronNestIcon.dll - We criticized the observers and pilots, and now you can see your location on the map after using the scout plane. (I drew the icon myself)
 
 TightValves.dll - We reinforced the Iron Nest and replaced it with better materials, so now the valve will never leak.
+
+*Thanks https://github.com/svr2kos2*
