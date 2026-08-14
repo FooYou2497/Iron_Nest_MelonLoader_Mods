@@ -18,4 +18,9 @@ ShowFrendlyIronNestIcon.dll - We criticized the observers and pilots, and now yo
 
 TightValves.dll - We reinforced the Iron Nest and replaced it with better materials, so now the valve will never leak.
 
+PhotographicReconnaissanceSatellite.dll - We successfully launched a camera into space. It actually didn’t fall down. There won't be a fog of war anymore.
+
+SyntheticApertureRadarSatellite.dll - We found this cool thing on a crashed unidentified flying object. It can spot enemies that the scout planes can't see. We decided to launch this thing into orbit.
+
 *Thanks https://github.com/svr2kos2. The Emperor won't forget your contributions!*
+
