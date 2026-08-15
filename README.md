@@ -22,7 +22,7 @@ PhotographicReconnaissanceSatellite.dll - We successfully launched a camera into
 
 SyntheticApertureRadarSatellite.dll - We found this cool thing on a crashed unidentified flying object. It can spot enemies that the scout planes can't see. We decided to launch this thing into orbit.
 
-GodsHand.dll - OMG
+GodsHand.dll - OMG... -Players can freely drag any red or blue icons on the map.-
 
 *Thanks https://github.com/svr2kos2. The Emperor won't forget your contributions!*
 
