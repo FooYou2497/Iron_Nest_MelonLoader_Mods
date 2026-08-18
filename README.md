@@ -14,7 +14,7 @@ ScoutPlaneUnlimited.dll - The Air Force has expanded its size, and we have more 
 
 FreeCards.dll - Our factory has excess capacity! You can have whatever you want now!
 
-ShowFrendlyIronNestIcon.dll - We criticized the observers and pilots, and now you can see your location on the map after using the scout plane. (I drew the icon myself)
+ShowFrendlyIronNestIcon.dll - We criticized the observers and pilots, and now you can see your location on the map after using the scout plane. (I drew the icon myself)(This mod doesn't work well with other mods... So, it's pretty much useless...?)
 
 TightValves.dll - We reinforced the Iron Nest and replaced it with better materials, so now the valve will never leak.
 
