@@ -28,5 +28,7 @@ GodsFoot.dll - OMG... ~~Players can right-click to destroy entities.~~
 
 PowerOnSelfTest.dll - We installed a BIOS on the Iron Nest. (You can press the F5 key now to automatically restore power.)
 
+Sleepyhead.dll - I'm so sleepy...
+
 *Thanks https://github.com/svr2kos2. The Emperor won't forget your contributions!*
 
